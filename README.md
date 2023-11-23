@@ -134,7 +134,7 @@ Answer 7: a. Round-robin scheduling
 
 Answer 8: a. Paging
 
-Answer 9: b. Using hardware interrupts
+Answer 9: d. Both b and c
 
 Answer 10: b. No
 
